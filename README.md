@@ -11,7 +11,6 @@
 <br />
 
 ![Status](https://img.shields.io/badge/STATUS-OPEN%20FOR%20WORK-00FF9C?style=flat-square&labelColor=0A0F1F)
-![Location](https://img.shields.io/badge/LOCATION-PESHAWAR%2C%20PK-00F7FF?style=flat-square&labelColor=0A0F1F)
 
 <br />
 
@@ -23,29 +22,34 @@
 
 ---
 
-## `> boot_sequence`
-
-```bash
-$ ssh liaqat@wpkhan.com
-Connecting to wpkhan.com ........ [ OK ]
-Loading profile ................. [ OK ]
-Mounting projects ............... [ OK ]
-Starting creativity engine ...... [ OK ]
+```text
+ _        _    _  __    liaqat@wpkhan --------------------------------------
+| |      / \  | |/ /    Name:        Liaqat Alikhan
+| |     / _ \ | ' /     Role:        WordPress Web Designer & Developer
+| |___ / ___ \| . \     Focus:       Fast, responsive websites
+|_____/_/   \_\_|\_\    Specialty:   Figma to WordPress
+                        Status:      Learning | Building | Improving
+ .---------------.      ----------------------------------------------------
+ | </>  { }  WP  |      Languages:   JavaScript, PHP, HTML, CSS
+ | css   js  php |      Frameworks:  React, Bootstrap
+ '---------------'      Platform:    WordPress, Elementor
+                        Design:      Figma, UI/UX Design
+  WEB DEVELOPER         ----------------------------------------------------
+                        Services:    Landing Pages, Redesign
+                                     API Integration, On-Page SEO
+                        Projects:    SpendWise, Age Calculator,
+                                     To-Do App
+                        Contact --------------------------------------------
+                        Portfolio:   wpkhan.com
+                        GitHub:      liaqatwebdev-boop
+                        Email:       info@wpkhan.com
 ```
+
+---
 
 ## `> whoami`
 
-```text
-NAME      : Liaqat Alikhan
-PRONOUNS  : he/him
-ROLE      : WordPress Web Designer & Developer
-BASE      : Peshawar, Pakistan
-FOCUS     : Web Development
-MISSION   : Build useful and responsive websites
-STATUS    : Learning | Building | Improving
-```
-
-**WordPress Developer & Frontend Engineer from Peshawar, Pakistan.** I turn Figma designs into fast, pixel-perfect, responsive websites using HTML, CSS, JavaScript, PHP, React, Bootstrap, and WordPress (Elementor & custom development). From UI/UX design and landing pages to API integration and on-page SEO, I build clean, user-friendly websites that look great and perform even better.
+**WordPress Developer & Frontend Engineer.** I turn Figma designs into fast, pixel-perfect, responsive websites using HTML, CSS, JavaScript, PHP, React, Bootstrap, and WordPress (Elementor & custom development). From UI/UX design and landing pages to API integration and on-page SEO, I build clean, user-friendly websites that look great and perform even better.
 
 ---
 
