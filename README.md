@@ -45,9 +45,7 @@ MISSION   : Build useful and responsive websites
 STATUS    : Learning | Building | Improving
 ```
 
-Hello! I'm **Liaqat Alikhan**, a WordPress Web Designer and Developer passionate about building responsive websites and practical web applications.
-
-I enjoy creating clean user interfaces, customizing WordPress websites, and improving my development skills through hands-on projects.
+**WordPress Developer & Frontend Engineer from Peshawar, Pakistan.** I turn Figma designs into fast, pixel-perfect, responsive websites using HTML, CSS, JavaScript, PHP, React, Bootstrap, and WordPress (Elementor & custom development). From UI/UX design and landing pages to API integration and on-page SEO, I build clean, user-friendly websites that look great and perform even better.
 
 ---
 
@@ -76,7 +74,8 @@ I enjoy creating clean user interfaces, customizing WordPress websites, and impr
 $ ls services/
   wordpress-development/    responsive-layouts/
   javascript-web-apps/      landing-pages/
-  figma-to-wordpress/       wordpress-on-page-seo/
+  figma-to-wordpress/       ui-ux-design/
+  api-integration/          wordpress-on-page-seo/
 ```
 
 ---
@@ -111,10 +110,12 @@ $ ls services/
 
 ## `> services`
 
-- WordPress Website Development
+- WordPress Website Development (Elementor & Custom)
 - Website Redesign & Customization
 - Responsive Landing Pages
 - Figma to WordPress
+- UI/UX Design
+- API Integration
 - WordPress On-Page SEO
 
 ---
